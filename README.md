@@ -242,13 +242,10 @@ Through this project, I gained hands-on experience with:
 
 **Ansila**
 
-GitHub:
-
-https://github.com/ansila-003
+GitHub: https://github.com/ansila-003
 
 LinkedIn: https://www.linkedin.com/in/ansila-ansi
 
-*(Add your LinkedIn profile here)*
 
 ---
 
